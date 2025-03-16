@@ -54,7 +54,7 @@ Dataset yang digunakan dalam proyek ini mencakup pengukuran kualitas udara dari 
 
 ## Live Dashboard  
 Anda dapat melihat visualisasi data langsung melalui Streamlit:  
- [Live Dashboard]()  
+ [Live Dashboard](https://sub-analisisdata.streamlit.app/)  
 
 Kode sumber dapat diakses di GitHub:  
- [GitHub Repository]()
+ [GitHub Repository](https://github.com/silviafebriani10/AnalisisData-StasiunGucheng)
